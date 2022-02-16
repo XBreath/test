@@ -26,6 +26,7 @@ jobs:
         aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws_region: us-west-2
         function_name: youTube_bot_go
+        zip_file: youtube_bot.zip
        
 
     
